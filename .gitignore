@@ -1,0 +1,17 @@
+# secrets
+kaggle.json
+.env
+
+# models
+*.h5
+*.keras
+*.pkl
+
+# datasets
+*.csv
+*.zip
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
